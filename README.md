@@ -1,4 +1,9 @@
 # Lightning Web Components Recipes
+-------------------
+
+129K views  2 years ago  Git
+Learn how to open a repository in GitHub & use VSCode to create a new branch, make a commit and then push it. Then, learn how to create a Pull Request in GitHub to merge your branch (and commit) to the main branch.-----------------
+
 
 READ NOW ===============>>>>>>>>>>>>>>>>>>>
 [![CI](https://github.com/trailheadapps/lwc-recipes/actions/workflows/ci.yml/badge.svg)](https://github.com/trailheadapps/lwc-recipes/actions/workflows/ci.yml) [![Packaging](https://github.com/trailheadapps/lwc-recipes/actions/workflows/packaging.yml/badge.svg)](https://github.com/trailheadapps/lwc-recipes/actions/workflows/packaging.yml) [![codecov](https://codecov.io/gh/trailheadapps/lwc-recipes/branch/main/graph/badge.svg)](https://codecov.io/gh/trailheadapps/lwc-recipes)
